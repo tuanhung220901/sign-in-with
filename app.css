@@ -1,0 +1,90 @@
+.Input{
+    width: 300px;
+    height: 35px;
+    border-radius: 5px;
+    background-color: transparent;
+    border-color: rgb(212, 178, 178);
+}
+#sign-in{
+    margin-top: 20px;
+    width: 308px;
+    height: 41px;
+    border-radius: 5px;
+    background-color: rgb(46, 44, 44);
+    color: white;
+    margin-top: 10px;
+}
+.Margin{
+    margin-bottom: 3px;
+}
+#face-google{
+    display: flex;
+    justify-content: space-between;
+    width: 308px;
+    height: 41px;
+}
+#web-1{
+    width: 40%;
+    height: 480px;
+    display: flex;
+   justify-content: center;
+    background-color: white;
+    border-radius: 10px;
+    align-self: center;
+}
+body{
+    height: 100%;
+    font-family: 'Lemonada', cursive;
+    background-image: url(https://khamphamoingay.com/wp-content/uploads/2020/04/20-hinh-nen-desktop-dep-full-hd-4k-chat-nhat-cho-may-tinh-2020-1.jpg);
+}
+.Inline-block{
+    text-align: center;
+}
+.face{
+    width: 145px;
+    height: 40px;
+    border-color: black;
+    color: white;
+    background-color: blue;
+    box-shadow: 1px 2px #888888;
+    border-radius: 5px;
+    border: 1px solid;
+    border-color: blue;
+}
+.google{
+    width: 145px;
+    height: 40px;
+    border-color:black;
+    color: black;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid;
+    box-shadow: 1px 2px #888888;
+}
+.shawdow{
+    box-shadow: black 10px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Margin-1{
+    margin-bottom: 30px;
+}
+.sign-in-with{
+    font-size: 30px;
+}
+.font-smail{
+    font-size: 8px;
+    color: gray;
+}
+.web{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+html{
+    height: 100%;
+}
